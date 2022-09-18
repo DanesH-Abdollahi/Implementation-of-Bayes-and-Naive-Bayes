@@ -3,6 +3,6 @@ Implementation of Bayes and Naive Bayes Algorithm in Python from Scratch
 
 ---
 
-Check  [mian.ipynb](https://github.com/DanesH-Abdollahi/Neural-Network-Implementation-Machine-Learning-Course-/tree/main/src/main.ipynb) out for the code and results.
+Check  [mian.ipynb](https://github.com/DanesH-Abdollahi/Implementation-of-Bayes-and-Naive-Bayes/blob/main/src/main.ipynb) out for the code and results.
 
 ---
